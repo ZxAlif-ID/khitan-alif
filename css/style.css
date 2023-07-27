@@ -17,7 +17,7 @@ margin-top: -100px
 
 .btn-sky {
     background-color: rgba(43, 0, 199, 0.815)  !important;
-    border: 3px solid #fff !important;
+    border: 1.5px solid #fff !important;
     color: rgb(255, 255, 255) !important;
 }
 
@@ -57,7 +57,7 @@ html{
     outline: none;
     cursor: pointer;
     padding: 15px;
-    border-radius: 4px;
+    border-radius: 1.5px;
 }
 
 @media (min-width: 992px){
