@@ -4,6 +4,7 @@ body {
     display: flex;
     justify-content: center;
     background-image: url('../img/pexels-min-an-813269.jpg');
+    scroll-behavior: smooth;
 }
 
 .asd-top{
